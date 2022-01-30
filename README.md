@@ -1,3 +1,2 @@
-# hello-world
-This is a learning exercise by a complete beginner
-I'm into R and teaching how to use it for digital humanities projects.
+# Python Lessons for SHAPE students
+I designed these Jupyter Notebooks to teach the basics of coding skills in Python to MA students taking the Coding and the Humanities module taught at the DDH, King’s. The module and the materials were launched in autumn 2019. Since the majority of the students on the MA DH programmes come from the SHAPE (Social Sciences, Humanities, and Arts) field and are complete beginners in coding, the design of the module’s syllabus was heavily informed by these circumstances as well as my observation and surveys that I collected throughout my teaching of Python and R on various coding-centred modules at King’s.
