@@ -4,11 +4,12 @@ I designed these Jupyter Notebooks to teach the basics of coding skills in Pytho
 # Rationale
 The materials were designed with several objectives in mind:
 
-    Build confidence;
-    Plenty of repetition and recycling of typically difficult topics and skills;
+    Help students build confidence;
+    Teach hwo to navigate the several coding environments but most importantly Anaconda3;
+    Pprovide plenty of repetition and recycling of typically difficult topics and skills;
     Show applied contexts in which the code skills taught on this module could be used;
-    Creative and applied additional activities;
-    Maximum transparency of instructional language;
+    Equip with creative and applied additional activities;
+    Ensure the maximum transparency of instructional language;
 
 I wrote the instructions in as comprehensible language as possible. It is not possible to avoid completely the use of technical jargon, but it is not impossible to make it friendlier and more transparent for students for whom the concept of object, for example, would trigger completely different connotations than for those who received extensive training in mathematics or engineering.
 
@@ -21,6 +22,17 @@ The lessons are geared towards the applied aspect of coding to show students a v
 
 # Topics
 All the Jupyter Notebooks here were developed and used in the coding environment of Anaconda3.
+
+1. Introduction: Objectives | What is Coding? | Python Interfaces
+2. Hardware & Memory | Variables & Statements | Basic Python Data Types
+3. Decision Making: Modules | Loops & Conditionals | Chatbots and UX Design
+4. Python Data Structures | User-Defined Functions | Sharing Code
+5. Statistical Modelling: Structured Data | Import & Export Files
+6. Unstructured Data & NLP
+7. Unstructured Data & Regex
+8. Web Scraping 1: HTML documents |Scraping and Parsing
+9. Web Scraping 2: Deep Dark Web | Automating Tasks
+10. Mining Social Media: APIs |Twitter API |Twitter Data Objects
 
 # Author
 [Dr Gabriele Salciute Civiliene](https://www.kcl.ac.uk/people/dr-gabriele-salciute-civiliene), Digital Humanities, King's College London
