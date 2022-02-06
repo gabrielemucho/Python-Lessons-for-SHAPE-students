@@ -27,14 +27,14 @@ All the Jupyter Notebooks here were developed and used in the coding environment
 
 1. [Introduction: Objectives | What is Coding? | Python Interfaces](./01_Week1_Slides%20%26%20JN)
 2. [Hardware & Memory | Variables & Statements | Basic Python Data Types](./02_Week2_JN%20%26%20images)
-3. Decision Making: Modules | Loops & Conditionals | Chatbots and UX Design
-4. Python Data Structures | User-Defined Functions | Sharing Code
-5. Statistical Modelling: Structured Data | Import & Export Files
-6. Unstructured Data & NLP
-7. Unstructured Data & Regex
-8. Web Scraping 1: HTML documents |Scraping and Parsing
-9. Web Scraping 2: Deep Dark Web | Automating Tasks
-10. Mining Social Media: APIs |Twitter API |Twitter Data Objects
+3. [Decision Making: Modules | Loops & Conditionals | Chatbots and UX Design](./03_Week3_JN%20%26%20images)
+4. [Python Data Structures | User-Defined Functions | Sharing Code](./04_Week4_JN_ImagesN%20%26%20Py%20Scripts)
+5. [Statistical Modelling: Structured Data | Import & Export Files](./05_Week5_JN_Images%20%26%20Excel)
+6. [Unstructured Data & NLP](./06_Week6_JN_Txt%20files_Images)
+7. [Unstructured Data & Regex](./07_Week7_JN_Txt%20files)
+8. [Web Scraping 1: HTML documents |Scraping and Parsing](./08_Week8_Slides_JN_Images)
+9. [Web Scraping 2: Deep Dark Web | Automating Tasks](./09_Week_JN%20%26%20Images)
+10. [Mining Social Media: APIs |Twitter API |Twitter Data Objects](./10_Week10_JN%20%26%20Images)
 
 # Author
 [Dr Gabriele Salciute Civiliene](https://www.kcl.ac.uk/people/dr-gabriele-salciute-civiliene), Digital Humanities, King's College London
