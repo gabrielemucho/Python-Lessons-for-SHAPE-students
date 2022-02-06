@@ -25,7 +25,7 @@ The lessons are geared towards the applied aspect of coding to show students a v
 # Topics
 All the Jupyter Notebooks here were developed and used in the coding environment of Anaconda3.
 
-1. [Introduction: Objectives | What is Coding? | Python Interfaces](https://github.com/gabrielemucho/Python-Lessons-for-SHAPE-students/tree/master/01_Week1_Slides%20%26%20JN)
+1. [Introduction: Objectives | What is Coding? | Python Interfaces](./01_Week1_Slides%20%26%20JN)
 2. Hardware & Memory | Variables & Statements | Basic Python Data Types
 3. Decision Making: Modules | Loops & Conditionals | Chatbots and UX Design
 4. Python Data Structures | User-Defined Functions | Sharing Code
