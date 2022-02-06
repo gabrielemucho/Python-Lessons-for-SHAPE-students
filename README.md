@@ -28,7 +28,7 @@ All the Jupyter Notebooks here were developed and used in the coding environment
 1. [Introduction: Objectives | What is Coding? | Python Interfaces](./01_Week1_Slides%20%26%20JN)
 2. [Hardware & Memory | Variables & Statements | Basic Python Data Types](./02_Week2_JN%20%26%20images)
 3. [Decision Making: Modules | Loops & Conditionals | Chatbots and UX Design](./03_Week3_JN%20%26%20images)
-4. [Python Data Structures | User-Defined Functions | Sharing Code](./04_Week4_JN_ImagesN%20%26%20Py%20Scripts)
+4. [Python Data Structures | User-Defined Functions | Sharing Code](./04_Week4_JN_Images%20%26%20Py%20Scripts)
 5. [Statistical Modelling: Structured Data | Import & Export Files](./05_Week5_JN_Images%20%26%20Excel)
 6. [Unstructured Data & NLP](./06_Week6_JN_Txt%20files_Images)
 7. [Unstructured Data & Regex](./07_Week7_JN_Txt%20files)
