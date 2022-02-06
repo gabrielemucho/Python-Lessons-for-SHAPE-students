@@ -23,7 +23,7 @@ From Week6 onwards, the materials combine guided and independent approaches. Tha
 The lessons are geared towards the applied aspect of coding to show students a variety of contexts and purposes of coding. It is made clear to them that they are not expected to become programmers or software designers. Hence, they can write their code in the way that works for them. That is, although they are encouraged to push their skills and attempt to put their coding solutions into blocks when dealing with more complex tasks, especially towards the end of the module, they are assured that breaking their code line-by-line is acceptable as long as they demonstrate their understanding of the choices (through commenting) they make.
 
 # Topics
-All the Jupyter Notebooks here were developed and used in the coding environment of Anaconda3.
+All the Jupyter Notebooks here were developed and used in the coding environment of Anaconda3. Each theme below is linked to the relevant weekly folder in the file list above.
 
 1. [Introduction: Objectives | What is Coding? | Python Interfaces](./01_Week1_Slides%20%26%20JN)
 2. [Hardware & Memory | Variables & Statements | Basic Python Data Types](./02_Week2_JN%20%26%20images)
