@@ -5,7 +5,7 @@ I designed these Jupyter Notebooks to teach the basics of coding skills in Pytho
 The materials were designed with several objectives in mind:
 
     Help students build confidence;
-    Teach hwo to navigate the several coding environments but most importantly Anaconda3;
+    Teach how to navigate the several coding environments but most importantly Anaconda3;
     Pprovide plenty of repetition and recycling of typically difficult topics and skills;
     Show applied contexts in which the code skills taught on this module could be used;
     Equip with creative and applied additional activities;
